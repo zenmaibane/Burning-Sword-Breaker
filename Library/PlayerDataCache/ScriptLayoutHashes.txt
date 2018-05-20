@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/tokei/Development/Barning_Sword_Breaker/docs
+C:/Users/tokei/Development/Burning_Sword_Breaker/docs
 SceneListBegin?
 Assets/Main.unity
 SceneListEnd?
