@@ -10,10 +10,16 @@ ModelImporter:
     400000: //RootNode
     400002: default
     2100000: palette
+    2100002: defaultMat
     2300000: default
     3300000: default
     4300000: default
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: 90a0a2386e513fb4ba8370d3e07ce6aa, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

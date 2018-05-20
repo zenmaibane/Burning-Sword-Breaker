@@ -13,7 +13,7 @@ public class Sword : MonoBehaviour
     {
         Vector3 mousePos = Input.mousePosition;
         Vector3 deltaMouse = mousePos - preMousePos;
-        transform.Rotate(0, deltaMouse.x * 0.1f, deltaMouse.y * -0.1f);
+        transform.Rotate(0, deltaMouse.x * -0.3f, deltaMouse.y * -0.3f);
         preMousePos = mousePos;
     }
 }
